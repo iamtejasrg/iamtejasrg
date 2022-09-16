@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm iamtejasrg</h1>
+<h1 align="center">Hi 👋, I'm Tejas Gorde</h1>
 <h3 align="center">A Passionate Java Developer and Backend Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/iamtejasrg" target="blank"><img src="https://img.shields.io/twitter/follow/iamtejasrg?logo=twitter&style=for-the-badge" alt="iamtejasrg" /></a> </p>
