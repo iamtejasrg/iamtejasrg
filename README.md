@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **tejasgorde5@gmail.com**
 
-- ⚡ Fun fact **Coffee <3**
+- ⚡ **Coffee <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
