@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Back-end Developement**
 
-- 📫 Reach me at **tejasgorde5@gmail.com**
+- 📫 Also here is my portfolio **https://iamtejasrg.github.io/**
 
 - ⚡ **Coffee <3**
 
