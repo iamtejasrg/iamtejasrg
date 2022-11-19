@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tejas Gorde</h1>
+<p align="center"><a href="https://iamtejasrg.github.io/"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://iamtejasrg.github.io/"><img width="80%" alt="Hello, I'm Tejas Gorde. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
 <h3 align="center">A Passionate Backend Developer And UI / UX Designer </h3>
 
 <p align="left"> <a href="https://twitter.com/iamtejasrg" target="blank"><img src="https://img.shields.io/twitter/follow/iamtejasrg?logo=twitter&style=for-the-badge" alt="iamtejasrg" /></a> </p>
