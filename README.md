@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Gorde</h1>
 
-<br />
-
 <h3 align="center">A Passionate Backend Developer And UI / UX Designer </h3>
 
 <p align="left"> <a href="https://twitter.com/iamtejasrg" target="blank"><img src="https://img.shields.io/twitter/follow/iamtejasrg?logo=twitter&style=for-the-badge" alt="iamtejasrg" /></a> </p>
