@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Back-end Developement**
 
-- 📫 Also here is my [Portfolio](https://iamtejasrg.github.io/)
+- 📫 Also here is my [Portfolio](https://iamtejasrg.me/)
 
 - ⚡ **Coffee <3**
 
