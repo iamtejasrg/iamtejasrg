@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamtejasrg" target="blank"><img src="https://img.shields.io/twitter/follow/iamtejasrg?logo=twitter&style=for-the-badge" alt="iamtejasrg" /></a> </p>
 
-- 🔭 I’m currently working on **AndroidApps**
+- 🔭 I’m currently working on **Android Apps**
 
 - 🌱 I’m currently learning **Spring And Also Software Testing**
 
