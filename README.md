@@ -26,3 +26,5 @@
 
 ### 😂 Random Dev Meme
 <img src="https://i.kym-cdn.com/entries/icons/mobile/000/032/773/cap.jpg/" width="512px"/>
+
+[![](https://visitcount.itsvg.in/api?id=iamtejasrg&icon=8&color=3)](https://visitcount.itsvg.in)
