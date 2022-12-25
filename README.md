@@ -25,6 +25,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtejasrg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src="https://i.kym-cdn.com/entries/icons/mobile/000/032/773/cap.jpg/" width="512px"/>
-
-[![](https://visitcount.itsvg.in/api?id=iamtejasrg&icon=8&color=3)](https://visitcount.itsvg.in)
+![alt text](https://i.kym-cdn.com/entries/icons/mobile/000/032/773/cap.png)
