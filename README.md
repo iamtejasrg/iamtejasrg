@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Gorde</h1>
 
-![myimage-alt-tag](https://i.kym-cdn.com/entries/icons/mobile/000/032/773/cap.jpg)
 
 <h3 align="center">A Passionate Backend Developer And UI / UX Designer </h3>
 
