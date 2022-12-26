@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Gorde</h1>
-
+![](https://komarev.com/ghpvc/?username=iamtejasrg&label=PROFILE+1200)
 
 <h3 align="center">A Passionate Backend Developer And UI / UX Designer </h3>
 
