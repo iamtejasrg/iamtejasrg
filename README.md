@@ -6,7 +6,6 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=iamtejasrg&color=dc143c" alt-"iamtejasrg"/></p>
 
-<p align="left"> <a href="https://twitter.com/iamtejasrg" target="blank"><img src="https://img.shields.io/twitter/follow/iamtejasrg?logo=twitter&style=for-the-badge" alt="iamtejasrg" /></a> </p>
 
 - 🔭 I’m currently working on **Android Apps**
 
