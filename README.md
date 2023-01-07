@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Android Apps**
 
-- 🌱 I’m currently learning **Spring And Also Software Testing**
+- 🌱 I’m currently learning **Spring And Next.JS**
 
 - 💬 Ask me about **Back-end Developement**
 
