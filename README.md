@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Gorde</h1>
 
 
-<h3 align="center">A Passionate Software Engineer </h3>
+<h3 align="center">A Passionate QA Automation Engineer </h3>
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=iamtejasrg&color=dc143c" alt-"iamtejasrg"/></p>
