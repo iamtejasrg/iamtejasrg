@@ -7,11 +7,11 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=iamtejasrg&color=dc143c" alt-"iamtejasrg"/></p>
 
 
-- 🔭 I’m currently working on **Android Apps**
+- 🔭 I’m currently Building **test automation frameworks using Java, Selenium, TestNG & Maven**
 
-- 🌱 I’m currently learning **Spring And Next.JS**
+- 🌱 I’m currently learning **API testing**
 
-- 💬 Ask me about **Back-end Developement**
+- 💬 Ask me about **Test Automation & Java Projects**
 
 - 📫 Also here is my [Portfolio](https://iamtejasrg.me/) Website
 
