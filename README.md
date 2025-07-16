@@ -22,4 +22,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamtejasrg&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtejasrg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![myimage-alt-tag](https://i.kym-cdn.com/entries/icons/mobile/000/032/773/cap.jpg)
