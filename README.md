@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Gorde</h1>
 
 
-<h3 align="center">A Passionate QA Automation Engineer </h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Quality+Assurance+Engineer" alt="Typing SVG" /></a>
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=iamtejasrg&color=dc143c" alt-"iamtejasrg"/></p>
