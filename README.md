@@ -8,8 +8,6 @@
 </p>
 
 
-
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=iamtejasrg&color=dc143c" alt-"iamtejasrg"/></p>
 
 
