@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Test Automation & Java Projects**
 
-- 📫 Also here is my [Portfolio](https://iamtejasrg.github.io/Portfolio/) Website
+- 📫 Also here is my [Portfolio Website](https://iamtejasrg.github.io/Portfolio/)
 
 
 - ⚡ **Coffee <3**
