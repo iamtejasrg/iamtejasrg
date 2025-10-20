@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Test Automation & Java Projects**
 
-- 📫 Also here is my [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://iamtejasrg.github.io/Portfolio/)
+- 📫 Also here is my [Portfolio](https://iamtejasrg.github.io/Portfolio/) Website
 
 
 - ⚡ **Coffee <3**
